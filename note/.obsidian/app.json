@@ -1,0 +1,9 @@
+{
+  "promptDelete": true,
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "ru",
+    "en-US"
+  ],
+  "readableLineLength": false
+}
